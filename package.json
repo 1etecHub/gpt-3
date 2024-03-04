@@ -1,5 +1,5 @@
 {
-  "homepage": "https://1etechub.github.io/my-portfolio",
+  "homepage": "https://1etechub.github.io/gpt-3",
   "name": "gpt-3",
   "version": "0.1.0",
   "private": true,
@@ -38,5 +38,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
   }
 }
